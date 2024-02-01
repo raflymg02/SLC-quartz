@@ -41,8 +41,7 @@ Educational hypermedia and on-line information systems are now established leade
 ## New Technologies
 - Natural language generation
 - Non-symbolic AI
-
-	A solid amount of research in modern AI is connected with various “non-symbolic” approaches such as case-based reasoning, machine learning, Bayesian models, and neural networks.
+		A solid amount of research in modern AI is connected with various “non-symbolic” approaches such as case-based reasoning, machine learning, Bayesian models, and neural networks.
 
 ## New Architecture
 - Authoring tools
