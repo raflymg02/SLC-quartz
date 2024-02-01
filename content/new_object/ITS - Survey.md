@@ -2,6 +2,8 @@
 title: Don't forget to rename this!
 draft: true
 tags:
+  - "#hypermedia"
+  - "#ITS"
 ---
 
 TODOS:
