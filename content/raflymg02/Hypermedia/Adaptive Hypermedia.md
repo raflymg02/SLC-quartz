@@ -10,21 +10,21 @@ P. De Bra, “Adaptive Hypermedia,” in _Handbook on Information Technologies f
 
 # Introduction
 
-Adaptive hypermedia is an alternative to the traditional “one-size-fits-all” approach in the development of hypermedia systems. Adaptive hypermedia systems build a model of the goals, preferences and knowledge of each individual user, and use this model throughout the interaction with the user, in order to adapt to the needs of that user.
+Adaptive hypermedia is an alternative to the traditional “one-size-fits-all” approach in the development of hypermedia systems. Adaptive hypermedia systems **build a model of each individual user's goals, preferences and knowledge**, and use this model throughout the interaction with the user, in order to **adapt to the needs of that user**. For example, a student in an adaptive educational hypermedia system will be given a presentation that is adapted specifically to his or her knowledge of the subject, with suggested set of the most relevant links to proceed further.
 
 # History
 
 ## Before 1996
 
-Adaptive Hypermedia research can be traced back to the early 1990s. At that time, the two main parent areas - Hypertext and User Modeling - had achieved a level of maturity that allowed for the cross-fertilization of research ideas. Initially, research efforts were independent, with early researchers unaware of each other's work. The support from the already established user modeling research community was influential in helping the existing research teams to find each other, and in recognizing and promoting adaptive hypermedia as an independent research direction in user modeling.
+Adaptive Hypermedia research can be traced back to the early 1990s. At that time, the two main parent areas - Hypertext and User Modeling - had achieved a level of maturity that allowed for the cross-fertilization of research ideas. Initially, **research efforts were independent**, with early researchers unaware of each other's work. The support from the already established user modeling research community was influential in helping the existing research teams to **find each other**, and in recognizing and promoting **adaptive hypermedia as an independent research direction** in user modeling.
 
 By that time, several innovative adaptive hypermedia techniques had been developed, and several research-level adaptive hypermedia systems had been built and evaluated. For more information, the reader is referred to the review of adaptive hypermedia systems, methods and techniques at that time (Brusilovsky, 1996).
 
 ## After 1996
 
-The year of 1996 can be considered a turning point in adaptive hypermedia research. Adaptive hypermedia has gone through a period of rapid growth. In particular, several new research teams have commenced projects in adaptive hypermedia, and many students have selected adaptive hypermedia as the subject area for their PhD theses.
+The year of 1996 can be considered **a turning point** in adaptive hypermedia research. Adaptive hypermedia has gone through a period of rapid growth. In particular, several new research teams have commenced projects in adaptive hypermedia, and many students have selected adaptive hypermedia as the subject area for their PhD theses.
 
-The surge in adaptive hypermedia research can be attributed to two key factors. The first factor is the rapid increase in the use of the Word Wide Web. The Web demands adaptivity due to its widely diverse audience. The second factor is the accumulation and consolidation of research experience in the field. It is clearly visible that research in adaptive hypermedia performed and reported up to 1996 has provided a good foundation for the new generation of research. In addition, a large number of systems developed since 1996 are either real world systems, or research systems developed for real world settings.
+The surge in adaptive hypermedia research can be attributed to two key factors. The first factor is the rapid increase in the use of the Word Wide Web. The Web **demands adaptivity** due to its **widely diverse audience**. The second factor is the accumulation and consolidation of research experience in the field. It is clearly visible that research in adaptive hypermedia performed and reported up to 1996 has **provided a good foundation** for the new generation of research. In addition, a large number of systems developed since 1996 are either real world systems, or research systems developed for real world settings.
 
 # Systems, Methods, Techniques
 ## Where to use?
@@ -44,7 +44,7 @@ Educational hypermedia and on-line information systems are now established leade
 ### User Characteristics
 - User interests
 
-	User interests is a long-standing but previously underutilized aspect in adaptive hypermedia systems. Now, user interests have gained prominence with the advent of Web Information Retrieval (IR) systems. This feature is also becoming popular in various online information systems such as kiosks, encyclopedias, and museum guides. In these systems, the user’s interests serve as a basis for recommending relevant hypernodes.
+	User interests is a long-standing but previously underutilized aspect in adaptive hypermedia systems. Now, user interests have gained prominence with the advent of Web Information Retrieval (IR) systems. This feature is also becoming popular in various online information systems such as kiosks, encyclopedias, and museum guides. In these systems, the user’s interests serve as **a basis for recommending relevant hypernodes.**
 
 
 - User's individual traits
